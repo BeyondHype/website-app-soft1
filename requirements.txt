@@ -1,0 +1,6 @@
+streamlit
+pandas
+fpdf
+python-magic
+Pillow
+sqlite3  # Optional — it's built-in, but keep for clarity
